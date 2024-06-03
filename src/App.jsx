@@ -17,7 +17,7 @@ function App() {
     { "id": "0", "task": "Read the project brief", "completed": true},
     { "id": "1", "task": "Create a project repository", "completed": true},
     { "id": "2", "task": "Create React application using Vite", "completed": false},
-    { "id": "3", "task": "Finish Day 1 Development Tasks", "completed": false},
+    { "id": "3", "task": "Finish Day 1 Using React", "completed": false},
     { "id": "4", "task": "Finish Day 1 Research Tasks", "completed": false},
     { "id": "5", "task": "Finish Day 2 Development Tasks", "completed": false},
     { "id": "6", "task": "Finish Day 2 Research Tasks", "completed": false}
