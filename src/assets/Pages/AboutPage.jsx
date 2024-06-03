@@ -13,9 +13,9 @@ const AboutPage = () => {
       <ul className={styles.featuresList}>
         <li>Andreia send you a smile </li>
         <li>Ayoub say hello</li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>..........</li>
+        <li>.......</li>
+        <li>.......</li>
       </ul>
       </div>
   );
