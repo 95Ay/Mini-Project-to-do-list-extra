@@ -1,8 +1,51 @@
-# React + Vite
+# Time Master App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Description
+- Time Master is an app designed to help you manage your tasks efficiently and stay organized throughout your day. With its intuitive interface and powerful features, Time Master simplifies task management, allowing you to focus on what matters most.
+# Technologies Used
+- HTML
+- CSS
+- JavaScript
+- DOM Manipulation
+- React
+- react-router-dom
+- useState
+- JSON
+# MVP
+- Viewing Tasks: Easily access your list of tasks to see what needs to be done.
+- Marking Tasks as Completed: Keep track of your progress by marking tasks as completed.
+- Setting Tasks as Incomplete: Toggle tasks as incomplete to adjust your priorities as needed.
+- Creating New Tasks: Quickly add new tasks to your list with the easy-to-use task creation feature.
+- Editing Existing Tasks: Make changes to existing tasks, including the task name and its completion state.
+# Data structure
+**`Pages:`**
 
-Currently, two official plugins are available:
+  -HomePage <br>
+  -EditPage <br>
+  -NotFoundPage <br>
+  -TaskDetailsPage <br>
+  -contactsPage <br>
+  -AboutPage <br>
+  
+  **`Components:`**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  -AddForm <br>
+  -Footer <br>
+  -ListItem <br>
+  -Navbar <br>
+  -Sidebar <br>
+  -TaskList <br>
+
+  
+  **`App.jsx`**  <br>
+  **`main.jsx`**
+
+
+# Future Additional Features (Under Construction)
+  - Create API
+  - Use Data base
+  - Adding categories for Tasks
+  - Adding Time and Date of creation, edit, and Complete for each Task
+# Links
+- [Slides Link](https://prezi.com/view/0Pk5W9wL5CEtKWITPkOS/)
+- [Github repository Link](https://github.com/Folgad0/ReactToDoApp)
